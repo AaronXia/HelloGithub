@@ -1,0 +1,5 @@
+hello, I'm testing vim.
+oh, you are good.
+
+This is the second test of vi.
+Great, everyone likes me. Haha......
